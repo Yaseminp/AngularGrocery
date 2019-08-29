@@ -1,14 +1,13 @@
 body{
   margin: 30px;
-  background-color: #c1e9a5
+  background-color: #d7e0dc
 }
 
 h2{
-  color: #347C2C;
+  color: rgb(30, 5, 170);
   font-size: 32px
 }
 .strike{
     text-decoration:line-through;
 }
-
 
