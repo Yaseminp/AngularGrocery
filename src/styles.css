@@ -1,7 +1,14 @@
 body{
-  background-color: red
+  margin: 30px;
+  background-color: #c1e9a5
 }
 
-
+h2{
+  color: #347C2C;
+  font-size: 32px
+}
+.strike{
+    text-decoration:line-through;
+}
 
 
