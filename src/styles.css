@@ -1,10 +1,10 @@
 body{
   margin: 30px;
-  background-color: hslg(135, 15%, 63%)
+  background-color: #babfbf
 }
 
 h2{
-  color: rgb(30, 5, 170);
+  color: rgb(12, 38, 110);
   font-size: 32px
 }
 .strike{
