@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/53197333/114130685-f614e880-98b5-11eb-8fc9-34d463cac1e7.png)
+
+
 # AngularGrocery
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.0.
